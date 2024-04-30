@@ -1,1 +1,1 @@
-# Sales-Insights-Of-Hospitality-Company
+# Hospitality Insights Project
